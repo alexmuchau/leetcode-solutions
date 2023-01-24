@@ -1,0 +1,39 @@
+# 2
+  __1.__ 1 step + 1 steps
+  __2.__ 2 step
+
+# 3
+  __1.__ 1 step + 1 step + 1 step
+  __2.__ 1 step + 2 steps
+  __3.__ 2 step + 1 steps
+
+# 4
+  __1.__ 1 step + 1 step + 1 step + 1 step
+  __2.__ 1 step + 2 steps + 1 step
+  __3.__ 1 steps + 1 step + 2 step
+  __4.__ 2 step + 1 steps + 1 step
+  __5.__ 2 step + 2 step
+
+# 5
+  __1.__ 1 step + 1 step + 1 step + 1 step + 1 step
+  __2.__ 1 step + 2 steps + 1 step + 1 step
+  __3.__ 1 steps + 1 step + 2 step + 1 step
+  __4.__ 1 steps + 1 step + 1 step + 2 step
+  __5.__ 2 steps + 1 step + 1 step + 1 step
+  __6.__ 2 steps + 2 step + 1 step
+  __7.__ 2 steps + 1 step + 2 step
+  __8.__ 2 steps + 1 step + 2 step
+
+# 6
+  __1.__ 1 step + 1 step + 1 step + 1 step + 1 step + 1 step
+  __2.__ 1 step + 2 steps + 1 step + 1 step + 1 step
+  __3.__ 1 steps + 1 step + 2 step + 1 step + 1 step
+  __4.__ 1 steps + 1 step + 1 step + 2 step + 1 step
+  __5.__ 1 steps + 1 step + 1 step + 1 step + 2 step
+  __6.__ 1 steps + 1 step + 2 step + 2 step
+  __7.__ 1 steps + 2 step + 2 step + 1 step
+  __8.__ 2 steps + 1 step + 1 step + 1 step + 1 step
+  __9.__ 2 steps + 2 step + 2 step
+  __10.__ 2 steps + 2 step + 1 step + 1 step
+  __11.__ 2 steps + 1 step + 1 step + 2 step
+  __12.__ 2 steps + 1 step + 2 step + 1 step
